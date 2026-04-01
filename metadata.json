@@ -1,0 +1,5 @@
+{
+  "name": "Soumya.AI",
+  "description": "Next-Gen AI Medical Identity System with integrated skin analysis, wellness bot, and Vedic dietary strategies.",
+  "requestFramePermissions": ["camera"]
+}
